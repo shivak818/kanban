@@ -1,0 +1,9 @@
+.App {
+  min-height:100vh;
+  background: rgb(223,203,230);
+background: linear-gradient(45deg, rgba(223,203,230,1) 66%, rgba(155,192,248,1) 82%);
+}
+.form{
+  background: rgb(223,203,230);
+background: linear-gradient(45deg, rgba(223,203,230,1) 66%, rgba(155,192,248,1) 82%);
+}
